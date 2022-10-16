@@ -392,6 +392,18 @@ footer .foot1 {
   padding: 10px;
 }
 
+.socials {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  gap: 1rem;  
+}
+
+.socials img {
+  width: 20px;
+  height: 20px;
+}
+
 
 /* tablet and more */
 @media(min-width: 668px) {
